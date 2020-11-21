@@ -1,0 +1,2 @@
+# prototype
+Sample game creation
